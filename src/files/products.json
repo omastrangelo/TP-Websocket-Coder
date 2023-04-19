@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"status": true,
+		"title": "Tablet",
+		"description": "Tablet Samsung",
+		"price": 1500,
+		"code": "75324234",
+		"stock": 100,
+		"category": "other"
+	},
+	{
+		"id": 2,
+		"status": true,
+		"title": "Notebook",
+		"description": "Notebook Dell",
+		"price": 900,
+		"code": "896556",
+		"stock": 80,
+		"category": "other"
+	},
+	{
+		"id": 3,
+		"status": true,
+		"title": "Mouse Gamer",
+		"description": "Mouse Gamer Profesional",
+		"price": 2000,
+		"code": "453222",
+		"stock": 43,
+		"category": "other"
+	},
+	{
+		"id": 4,
+		"status": true,
+		"title": "Auriculares",
+		"description": "Auriculares Gamer de alto rendimiento",
+		"price": 1200,
+		"code": "1S6345",
+		"stock": 52,
+		"category": "other"
+	}
+]
